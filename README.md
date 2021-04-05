@@ -9,3 +9,4 @@ DHTLib
 Adafruit_SSD1306
 
 Za informacije o instaliranju biblioteka, pogledajte: http://www.arduino.cc/en/Guide/Libraries
+video na linku: https://it-it.facebook.com/srednjoskolski/videos/447153512508696/
